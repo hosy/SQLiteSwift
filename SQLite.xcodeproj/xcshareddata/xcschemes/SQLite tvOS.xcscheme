@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "03A65E591C6BB0F50062603F"
                BuildableName = "SQLite.framework"
-               BlueprintName = "SQLite tvOS"
+               BlueprintName = "SQLiteSwift tvOS"
                ReferencedContainer = "container:SQLite.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,7 +32,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "03A65E591C6BB0F50062603F"
             BuildableName = "SQLite.framework"
-            BlueprintName = "SQLite tvOS"
+            BlueprintName = "SQLiteSwift tvOS"
             ReferencedContainer = "container:SQLite.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,7 +64,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "03A65E591C6BB0F50062603F"
             BuildableName = "SQLite.framework"
-            BlueprintName = "SQLite tvOS"
+            BlueprintName = "SQLiteSwift tvOS"
             ReferencedContainer = "container:SQLite.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -80,7 +80,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "03A65E591C6BB0F50062603F"
             BuildableName = "SQLite.framework"
-            BlueprintName = "SQLite tvOS"
+            BlueprintName = "SQLiteSwift tvOS"
             ReferencedContainer = "container:SQLite.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

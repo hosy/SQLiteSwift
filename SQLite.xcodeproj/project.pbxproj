@@ -827,9 +827,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		03A65E591C6BB0F50062603F /* SQLite tvOS */ = {
+		03A65E591C6BB0F50062603F /* SQLiteSwift tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 03A65E6F1C6BB0F60062603F /* Build configuration list for PBXNativeTarget "SQLite tvOS" */;
+			buildConfigurationList = 03A65E6F1C6BB0F60062603F /* Build configuration list for PBXNativeTarget "SQLiteSwift tvOS" */;
 			buildPhases = (
 				03A65E571C6BB0F50062603F /* Headers */,
 				03A65E551C6BB0F50062603F /* Sources */,
@@ -840,7 +840,7 @@
 			);
 			dependencies = (
 			);
-			name = "SQLite tvOS";
+			name = "SQLiteSwift tvOS";
 			productName = "SQLite tvOS";
 			productReference = 03A65E5A1C6BB0F50062603F /* SQLite.framework */;
 			productType = "com.apple.product-type.framework";
@@ -863,9 +863,9 @@
 			productReference = 03A65E631C6BB0F60062603F /* SQLiteTests tvOS.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		A121AC441CA35C79005A31D1 /* SQLite watchOS */ = {
+		A121AC441CA35C79005A31D1 /* SQLiteSwift watchOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A121AC4C1CA35C79005A31D1 /* Build configuration list for PBXNativeTarget "SQLite watchOS" */;
+			buildConfigurationList = A121AC4C1CA35C79005A31D1 /* Build configuration list for PBXNativeTarget "SQLiteSwift watchOS" */;
 			buildPhases = (
 				A121AC421CA35C79005A31D1 /* Headers */,
 				A121AC401CA35C79005A31D1 /* Sources */,
@@ -876,14 +876,14 @@
 			);
 			dependencies = (
 			);
-			name = "SQLite watchOS";
+			name = "SQLiteSwift watchOS";
 			productName = "SQLite watchOS";
 			productReference = A121AC451CA35C79005A31D1 /* SQLite.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		DEB306B82B61CEF500F9D46B /* SQLite visionOS */ = {
+		DEB306B82B61CEF500F9D46B /* SQLiteSwift visionOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DEB306E22B61CEF500F9D46B /* Build configuration list for PBXNativeTarget "SQLite visionOS" */;
+			buildConfigurationList = DEB306E22B61CEF500F9D46B /* Build configuration list for PBXNativeTarget "SQLiteSwift visionOS" */;
 			buildPhases = (
 				DEB306B92B61CEF500F9D46B /* Headers */,
 				DEB306BB2B61CEF500F9D46B /* Sources */,
@@ -894,7 +894,7 @@
 			);
 			dependencies = (
 			);
-			name = "SQLite visionOS";
+			name = "SQLiteSwift visionOS";
 			productName = SQLite;
 			productReference = DEB306E52B61CEF500F9D46B /* SQLite.framework */;
 			productType = "com.apple.product-type.framework";
@@ -917,9 +917,9 @@
 			productReference = DEB307112B61CF9500F9D46B /* SQLiteTests visionOS.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		EE247AD21C3F04ED00AE3E12 /* SQLite iOS */ = {
+		EE247AD21C3F04ED00AE3E12 /* SQLiteSwift iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EE247AE71C3F04ED00AE3E12 /* Build configuration list for PBXNativeTarget "SQLite iOS" */;
+			buildConfigurationList = EE247AE71C3F04ED00AE3E12 /* Build configuration list for PBXNativeTarget "SQLiteSwift iOS" */;
 			buildPhases = (
 				EE247AD01C3F04ED00AE3E12 /* Headers */,
 				EE247ACE1C3F04ED00AE3E12 /* Sources */,
@@ -930,7 +930,7 @@
 			);
 			dependencies = (
 			);
-			name = "SQLite iOS";
+			name = "SQLiteSwift iOS";
 			productName = SQLite;
 			productReference = EE247AD31C3F04ED00AE3E12 /* SQLite.framework */;
 			productType = "com.apple.product-type.framework";
@@ -953,9 +953,9 @@
 			productReference = EE247ADD1C3F04ED00AE3E12 /* SQLiteTests iOS.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		EE247B3B1C3F3ED000AE3E12 /* SQLite Mac */ = {
+		EE247B3B1C3F3ED000AE3E12 /* SQLiteSwift Mac */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EE247B511C3F3ED000AE3E12 /* Build configuration list for PBXNativeTarget "SQLite Mac" */;
+			buildConfigurationList = EE247B511C3F3ED000AE3E12 /* Build configuration list for PBXNativeTarget "SQLiteSwift Mac" */;
 			buildPhases = (
 				EE247B391C3F3ED000AE3E12 /* Headers */,
 				EE247B371C3F3ED000AE3E12 /* Sources */,
@@ -966,7 +966,7 @@
 			);
 			dependencies = (
 			);
-			name = "SQLite Mac";
+			name = "SQLiteSwift Mac";
 			productName = SQLite;
 			productReference = EE247B3C1C3F3ED000AE3E12 /* SQLite.framework */;
 			productType = "com.apple.product-type.framework";
@@ -1041,14 +1041,14 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EE247AD21C3F04ED00AE3E12 /* SQLite iOS */,
+				EE247AD21C3F04ED00AE3E12 /* SQLiteSwift iOS */,
 				EE247ADC1C3F04ED00AE3E12 /* SQLiteTests iOS */,
-				EE247B3B1C3F3ED000AE3E12 /* SQLite Mac */,
+				EE247B3B1C3F3ED000AE3E12 /* SQLiteSwift Mac */,
 				EE247B441C3F3ED000AE3E12 /* SQLiteTests Mac */,
-				03A65E591C6BB0F50062603F /* SQLite tvOS */,
+				03A65E591C6BB0F50062603F /* SQLiteSwift tvOS */,
 				03A65E621C6BB0F60062603F /* SQLiteTests tvOS */,
-				A121AC441CA35C79005A31D1 /* SQLite watchOS */,
-				DEB306B82B61CEF500F9D46B /* SQLite visionOS */,
+				A121AC441CA35C79005A31D1 /* SQLiteSwift watchOS */,
+				DEB306B82B61CEF500F9D46B /* SQLiteSwift visionOS */,
 				DEB306E72B61CF9500F9D46B /* SQLiteTests visionOS */,
 			);
 		};
@@ -1505,22 +1505,22 @@
 /* Begin PBXTargetDependency section */
 		03A65E661C6BB0F60062603F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 03A65E591C6BB0F50062603F /* SQLite tvOS */;
+			target = 03A65E591C6BB0F50062603F /* SQLiteSwift tvOS */;
 			targetProxy = 03A65E651C6BB0F60062603F /* PBXContainerItemProxy */;
 		};
 		DEB307152B61D07F00F9D46B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DEB306B82B61CEF500F9D46B /* SQLite visionOS */;
+			target = DEB306B82B61CEF500F9D46B /* SQLiteSwift visionOS */;
 			targetProxy = DEB307142B61D07F00F9D46B /* PBXContainerItemProxy */;
 		};
 		EE247AE01C3F04ED00AE3E12 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EE247AD21C3F04ED00AE3E12 /* SQLite iOS */;
+			target = EE247AD21C3F04ED00AE3E12 /* SQLiteSwift iOS */;
 			targetProxy = EE247ADF1C3F04ED00AE3E12 /* PBXContainerItemProxy */;
 		};
 		EE247B481C3F3ED000AE3E12 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EE247B3B1C3F3ED000AE3E12 /* SQLite Mac */;
+			target = EE247B3B1C3F3ED000AE3E12 /* SQLiteSwift Mac */;
 			targetProxy = EE247B471C3F3ED000AE3E12 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -2011,7 +2011,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		03A65E6F1C6BB0F60062603F /* Build configuration list for PBXNativeTarget "SQLite tvOS" */ = {
+		03A65E6F1C6BB0F60062603F /* Build configuration list for PBXNativeTarget "SQLiteSwift tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				03A65E6B1C6BB0F60062603F /* Debug */,
@@ -2029,7 +2029,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A121AC4C1CA35C79005A31D1 /* Build configuration list for PBXNativeTarget "SQLite watchOS" */ = {
+		A121AC4C1CA35C79005A31D1 /* Build configuration list for PBXNativeTarget "SQLiteSwift watchOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A121AC4A1CA35C79005A31D1 /* Debug */,
@@ -2038,7 +2038,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DEB306E22B61CEF500F9D46B /* Build configuration list for PBXNativeTarget "SQLite visionOS" */ = {
+		DEB306E22B61CEF500F9D46B /* Build configuration list for PBXNativeTarget "SQLiteSwift visionOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DEB306E32B61CEF500F9D46B /* Debug */,
@@ -2065,7 +2065,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EE247AE71C3F04ED00AE3E12 /* Build configuration list for PBXNativeTarget "SQLite iOS" */ = {
+		EE247AE71C3F04ED00AE3E12 /* Build configuration list for PBXNativeTarget "SQLiteSwift iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EE247AE81C3F04ED00AE3E12 /* Debug */,
@@ -2083,7 +2083,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EE247B511C3F3ED000AE3E12 /* Build configuration list for PBXNativeTarget "SQLite Mac" */ = {
+		EE247B511C3F3ED000AE3E12 /* Build configuration list for PBXNativeTarget "SQLiteSwift Mac" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EE247B4D1C3F3ED000AE3E12 /* Debug */,
