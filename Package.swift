@@ -13,7 +13,7 @@ let package = Package(
     products: [
         .library(
             name: "SQLiteSwift",
-            targets: ["SQLite"]
+            targets: ["SQLiteSwift"]
         )
     ],
     targets: [
