@@ -1,3 +1,12 @@
+Change by HOsy: Renamed Swift package to SQLiteSwift to void duplicate framework implementation messages:
+
+Class _TtC6SQLite6Backup is implemented in both /System/Library/PrivateFrameworks/LinkServices.framework/Versions/A/LinkServices
+Class _TtC6SQLite10Connection is implemented in both /System/Library/PrivateFrameworks/LinkServices.framework/Versions/A/LinkServices 
+Class _TtC6SQLite9Statement is implemented in both /System/Library/PrivateFrameworks/LinkServices.framework/Versions/A/LinkServices 
+Class _TtC6SQLite13DateFunctions is implemented in both /System/Library/PrivateFrameworks/LinkServices.framework/Versions/A/LinkServices
+Class _TtC6SQLite12TableBuilder is implemented in both /System/Library/PrivateFrameworks/LinkServices.framework/Versions/A/LinkServices
+
+
 # SQLite.swift
 
 ![Build Status][GitHubActionBadge] [![CocoaPods Version][CocoaPodsVersionBadge]][CocoaPodsVersionLink] [![Swift5 compatible][Swift5Badge]][Swift5Link] [![Platform][PlatformBadge]][PlatformLink] [![Carthage compatible][CartagheBadge]][CarthageLink] [![Join the chat at https://gitter.im/stephencelis/SQLite.swift][GitterBadge]][GitterLink]
